@@ -1,2 +1,2 @@
 # course_project_informatics
-My course project in informatics (1st course)
+My course project and lab works in informatics (1st course)
